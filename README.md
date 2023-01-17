@@ -113,7 +113,7 @@ Add functionality where if a user goes to
 - `/songs?is_favorite=false` it will only show the songs where the value of `is_favorite` is false
 
 
-# [Part 4 is a React App, see other readme for more details](./README-FE.md)
+# [Part 4 is a React App, see other readme for more details](https://github.com/9-2-pursuit/tuner-frontend)
 
 ## Part 5 
 

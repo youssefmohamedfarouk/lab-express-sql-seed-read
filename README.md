@@ -28,7 +28,7 @@ If you feel like you are falling behind, reach out to an instructor.
 
 ## Part 1
 
-- Get a basic express app working
+- Get a basic express app working (Don't forget `app.js`!)
 
 - Then implement the index route that uses pg-promise to query your db
 
